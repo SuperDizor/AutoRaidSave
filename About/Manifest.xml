@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+	<identifier>AutoRaidSave</identifier>
+	<version>1.0.0</version>
+	<dependencies>
+        <li>Harmony</li>
+	</dependencies>
+	<incompatibleWith> 
+
+	</incompatibleWith>
+	<loadAfter>
+        <li>Harmony</li>
+	</loadAfter>
+	<manifestUri>https://github.com/superdizor/AutoRaidSave/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/superdizor/AutoRaidSave</downloadUri>
+</Manifest>

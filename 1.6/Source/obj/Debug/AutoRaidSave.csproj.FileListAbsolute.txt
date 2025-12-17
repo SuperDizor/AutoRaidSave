@@ -1,0 +1,12 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\AutoRaidSave.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\AutoRaidSave.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\0Harmony.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\Assembly-CSharp.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\UnityEngine.CoreModule.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Debug\UnityEngine.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Debug\AutoRaidSave.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Debug\AutoRaidSave.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Debug\AutoRaid.6127C8BD.Up2Date
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Debug\AutoRaidSave.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Debug\AutoRaidSave.pdb

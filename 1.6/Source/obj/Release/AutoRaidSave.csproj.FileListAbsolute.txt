@@ -1,0 +1,12 @@
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\AutoRaidSave.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\AutoRaidSave.pdb
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\0Harmony.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\Assembly-CSharp.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\bin\Release\UnityEngine.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Release\AutoRaidSave.csproj.AssemblyReference.cache
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Release\AutoRaidSave.csproj.CoreCompileInputs.cache
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Release\AutoRaid.6127C8BD.Up2Date
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Release\AutoRaidSave.dll
+C:\Users\felix\AppData\Local\RimSort\instances\testing\RimWorld\Mods\AutoRaidSave\1.6\Source\obj\Release\AutoRaidSave.pdb
